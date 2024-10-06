@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.1",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.11.3",
+    "pgsql": "^1.0.0"
+  }
+}

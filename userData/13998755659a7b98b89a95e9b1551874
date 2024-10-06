@@ -1,0 +1,8 @@
+firstname,lastname,email,phone,address,empid,Pan,bloodgroup,dob,dateofjoining,location,director,CM,CEO,HR,primaryskill,secondaryskill,CL,Sick,PR,Emergencyname,Contactno,gender,Desc1,Desc2,TeamName,teamLead,teamManager,password,confirmpassword
+Selva,Ganapathi,selva@gmail.com,8190086456,Paravai,26820,8797546821,O+,21-12-1998,20-12-2024,Chennai,Raj,karan,Radha,Shela,Java,Angular,6,6,10,Radha,9087388056,male,,,statefarm,Kumar,Ravi,Selva,Selva
+Kumar,Raj,kumar@gmail.com,9087388056,Madurai,26821,4578891225,A+,21-10-1998,25-12-2024,Banglore,Raj,karan,Radha,Vamsi,JS,Node,4,2,4,Kumaran,8745968712,male,,,statefarm,Kumar,Ravi,Kumar,Kumar
+Indhu,Kovind,indhu@gmail.com,9790299259,Chennai,26810,8797546821,B+,21-11-1998,20-12-2024,Chennai,Raj,karan,Radha,Vamsi,JS,Angular,6,6,10,Deva,9790299259,female,,,statefarm,Kumar,Ravi,Indhu,Indhu
+Deepika,Ganeshan,deepika@gmail.com,7845962454,Theni,26805,8192526831,AB+,21-12-1999,05-01-2024,Chennai,Raj,karan,Radha,Shela,Php,Angular,2,3,7,Krithin,9842568714,female,,,statefarm,Kumar,Ravi,Deepika,Deepika
+Tharan,raj,tharan@gmail.com,9087542165,Saleem,26841,785429818,O+,14-12-1998,20-12-2024,Chennai,Arun,karan,Radha,Kalai,AWS,Springboot,6,6,10,Praba,7845928710,male,,,UI/UX,Bharath,Suresh,Tharan,Tharan
+Sanjay,Varan,sanjay@gmail.com,9187546325,Madurai,26842,8797546821,O+,21-03-1998,20-12-2024,Chennai,Arun,karan,Radha,Kalai,Figma,Photoshop,5,5,10,Sri,8745968547,male,,,UI/UX,Bharath,Suresh,Sanjay,Sanjay
+Ashok,Kumar,ashok@gmail.com,8745685245,Chennai,26825,8797546821,A-,20-11-1998,20-12-2024,Banglore,Arun,karan,Radha,Kalai,Figma,Photoshop,3,3,10,Rashmika,9032547821,male,,,UI/UX,Bharath,Suresh,Ashok,Ashok
